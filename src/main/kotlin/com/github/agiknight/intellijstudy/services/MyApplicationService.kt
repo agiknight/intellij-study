@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.agiknight.intellijstudy.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.agiknight.intellijstudy.MyBundle
 
 class MyApplicationService {
 
